@@ -1,8 +1,14 @@
 ## Olá! Eu sou o Isael Dorneles Júnior 
 
-Apaixonado por tecnologia desde de criança, sempre acompanhando a evolução.🤓
+Sou amante da tecnologia desde criança, e depois que comecei a programar o amor aumentou ainda mais.
 
-Hoje estudo desenvolvimento web com **Python** e framework **Djando**.
+Estou em busca de uma vaga de Desenvolvedor Web Back-End.
+
+Quero viver novos desafios, e estou sempre disposto a aprender.
+
+## Tenho conhecimentos e sei trabalhar com:
+
+Python, Testes Unitários (Pytest), Framework Django, Git/GitHub e CI/CD
  
 >**Aluno da [PythonPro](https://github.com/pythonprobr)**
  
