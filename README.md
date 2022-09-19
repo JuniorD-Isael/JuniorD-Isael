@@ -8,7 +8,7 @@ Quero viver novos desafios, e estou sempre disposto a aprender.
 
 ## Tenho conhecimentos e sei trabalhar com:
 
-Python, Testes Unitários (Pytest), Framework Django, Git/GitHub e CI/CD
+Python, Testes (Unittest, Pytest), Framework Django, Git/GitHub e CI/CD
  
 >**Aluno da [PythonPro](https://github.com/pythonprobr)**
  
