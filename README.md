@@ -3,9 +3,6 @@
 Sou amante da tecnologia desde criança, e depois que comecei a programar o só amor aumentou.
 
 Em busca novos desafios, sempre disposto a aprimorar ainda mais minhas capacidades.
- 
->**Aluno da [PythonPro](https://github.com/pythonprobr) e da [Rocketseat](https://www.rocketseat.com.br/)**
- 
 
 >**Gafanhoto do [Curso em Vídeo](https://www.cursoemvideo.com/)**
 
