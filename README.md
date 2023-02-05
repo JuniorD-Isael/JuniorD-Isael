@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Isael Dorneles Júnior 
 
-Sou amante da tecnologia desde criança, e depois que comecei a programar o só amor aumentou.
+1º Periodo de Análine e Desenvolvimento de Sistemas
 
+Apaixonado por tecnologia desde criança, e depois que comecei a programar o só amor aumentou.
 Em busca novos desafios, sempre disposto a aprimorar ainda mais minhas capacidades.
 
 >**Gafanhoto do [Curso em Vídeo](https://www.cursoemvideo.com/)**
