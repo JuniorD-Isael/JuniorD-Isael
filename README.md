@@ -2,36 +2,13 @@
 
 1º Periodo de Análine e Desenvolvimento de Sistemas
 
-Apaixonado por tecnologia desde criança, e depois que comecei a programar o só amor aumentou.
-Em busca novos desafios, sempre disposto a aprimorar ainda mais minhas capacidades.
+Sou apaixonado pelo mundo da tecnologia e programar é definitivamente a minha atividade favorita. Embora tenha mais experiência em desenvolvimento web com Python, não me limito a essa linguagem. Gosto de experimentar outras tecnologias, como Ruby, Java, C, entre outras. Por isso, escolhi a graduação em Análise e Desenvolvimento de Sistemas. Sou sempre movido por desafios e adoro me aventurar em novas áreas, estou sempre aberto a oportunidades que me permitam aprender e crescer ainda mais.
 
->**Gafanhoto do [Curso em Vídeo](https://www.cursoemvideo.com/)**
+<br>
 
- 
- <div>
-  <a href="https://github.com/JuniorD-Isael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorD-Isael&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorD-Isael&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
-## 🚀 Skills
-
-#### Linguagens
-
-<img align="center" alt="Junior-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img align="center" alt="Junior-Python" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-
-<img align="center" alt="Junior-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img align="center" alt="Junior-Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">  <img align="center" alt="Junior-Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-
-
-  
-## :boy: Contatos
-
-  <a href="https://www.instagram.com/juniord_isael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://t.me/IsaeldJunior/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> <a href = "mailto:isaeldjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.instagram.com/juniord_isael/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://t.me/IsaeldJunior/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> <a href = "mailto:isaeldjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/isael-d-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://app.rocketseat.com.br/me/juniordorneles" target="_blank"><img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost"></a>
  
-## Integração Contìnua
-<img align="center" alt="Junior-Travis CI" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"> <img align="center" alt="Junior-GitActions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 
 
   ![Snake animation](https://github.com/JuniorD-Isael/JuniorD-Isael/blob/output/github-contribution-grid-snake.svg)
