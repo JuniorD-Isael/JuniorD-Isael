@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Isael Dorneles Júnior 
 
-1º Periodo de Análine e Desenvolvimento de Sistemas
-
 Sou apaixonado pelo mundo da tecnologia e programar é definitivamente a minha atividade favorita. Embora tenha mais experiência em desenvolvimento web com Python, não me limito a essa linguagem. Gosto de experimentar outras tecnologias, como Ruby, Java, C, entre outras. Por isso, escolhi a graduação em Análise e Desenvolvimento de Sistemas. Sou sempre movido por desafios e adoro me aventurar em novas áreas, estou sempre aberto a oportunidades que me permitam aprender e crescer ainda mais.
 
 <br>
