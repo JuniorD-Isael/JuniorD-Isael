@@ -1,7 +1,5 @@
+## Olá! Eu sou Isael Dorneles Júnior.
 
-Aqui está o texto corrigido:
-
-Olá! Eu sou Isael Dorneles Júnior.
 Sou apaixonado pelo mundo da tecnologia, e programar é definitivamente minha atividade favorita. Embora tenha começado minha trajetória em desenvolvimento web com Python, hoje tenho focado totalmente em aprender a linguagem Java. Mas não me limito somente a essas linguagens, pois gosto de experimentar outras tecnologias, como Ruby, JavaScript, C, entre outras. Por isso, escolhi as graduações em Análise e Desenvolvimento de Sistemas e Sistemas para Internet. Sou sempre movido por desafios e adoro me aventurar em novas áreas. Estou sempre aberto a oportunidades que me permitam aprender e crescer ainda mais.
 
 Atualmente, estou participando do Bootcamp da DIO em conjunto com a Santander Open Academy e concluí recentemente o curso de Tecnologia de Desenvolvimento Backend Java disponibilizado pela [Vai na Web](https://vainaweb.com.br/), onde desenvolvi ainda mais minhas Hard Skills e Soft Skills com aulas dinâmicas, práticas e 100% ao vivo!
