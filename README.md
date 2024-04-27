@@ -24,4 +24,9 @@ Atualmente, estou participando do Bootcamp da DIO em conjunto com a Santander Op
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorD-Isael&show_icons=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorD-Isael&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniorD-Isael&layout=compact&langs_count=8&theme=midnight-purple&card_width=320" />
+</a>
