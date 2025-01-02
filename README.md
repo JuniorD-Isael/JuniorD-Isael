@@ -2,7 +2,7 @@
 
 Eu sou Isael Dorneles Júnior, apaixonado pelo mundo da tecnologia e com uma grande paixão pela programação.
 
-Comecei minha jornada no desenvolvimento web com Python, mas recentemente tenho focado em aprender Java. No entanto, minha curiosidade não se limita a essas linguagens; gosto de experimentar outras tecnologias, como Ruby, JavaScript e C. É por isso que escolhi cursar Análise e Desenvolvimento de Sistemas e Sistemas para Internet. Sempre estou buscando desafios e adoro me aventurar em novas áreas, estando aberto a oportunidades que me permitam aprender e crescer ainda mais.
+Comecei minha jornada no desenvolvimento web com Python, mas recentemente tenho focado em aprender Java. No entanto, minha curiosidade não se limita a essas linguagens; gosto de experimentar outras tecnologias, como Ruby, JavaScript e C. É por isso que escolhi cursar Análise e Desenvolvimento de Sistemas e o Bacharelado em Engenharia de Computação. Sempre estou buscando desafios e adoro me aventurar em novas áreas, estando aberto a oportunidades que me permitam aprender e crescer ainda mais.
 
 Atualmente, estou participando do Bootcamp da DIO em conjunto com a Santander Open Academy e concluí recentemente o curso de Tecnologia de Desenvolvimento Backend Java oferecido pela [Vai na Web](https://vainaweb.com.br/), onde desenvolvi ainda mais minhas habilidades técnicas e interpessoais com aulas dinâmicas, práticas e 100% ao vivo!
 
