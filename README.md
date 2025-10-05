@@ -1,6 +1,7 @@
 # Olá! 👋
 
-Sou Isael Dorneles Júnior, desenvolvedor backend com experiência em Python e Java, agora pivotando minha carreira para Segurança Cibernética. Minha paixão por tecnologia vai além do código: estou explorando vulnerabilidades, defendendo sistemas e aprendendo metodologias de pentest, análise de redes e segurança em nuvem.
+Sou Isael Dorneles Júnior, desenvolvedor backend graduado em Análise e Desenvolvimento de Sistemas e atualmente graduando em Segurança Cibernética.
+Minha base sólida em desenvolvimento com Python e Java tem guiado minha transição para o universo da cibersegurança, onde aplico o raciocínio lógico e a mentalidade de desenvolvedor para compreender vulnerabilidades, testar sistemas e fortalecer defesas.
 
 Atualmente participo do Bootcamp Santander – Cibersegurança 2025 na DIO e da Formação CyberSec da [Vai na Web](https://vainaweb.com.br/) e [Kensei](https://www.linkedin.com/company/kensei-cybersec/posts/?feedView=all). Concluí a alguns meses o curso de Tecnologia de Desenvolvimento Backend Java oferecido também pela [Vai na Web](https://vainaweb.com.br/), onde desenvolvi ainda mais minhas habilidades técnicas e interpessoais com aulas dinâmicas, práticas e 100% ao vivo!
 
