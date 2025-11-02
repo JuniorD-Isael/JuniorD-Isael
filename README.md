@@ -1,37 +1,64 @@
-# Olá! 👋
+# Isael Dorneles Júnior
+*Profissional de Tecnologia | Cibersegurança | DevSecOps & Automação com IA*
 
-Sou Isael Dorneles Júnior, desenvolvedor backend graduado em Análise e Desenvolvimento de Sistemas e atualmente graduando em Segurança Cibernética.
-Minha base sólida em desenvolvimento com Python e Java tem guiado minha transição para o universo da cibersegurança, onde aplico o raciocínio lógico e a mentalidade de desenvolvedor para compreender vulnerabilidades, testar sistemas e fortalecer defesas.
-
-Atualmente participo do Bootcamp Santander – Cibersegurança 2025 na DIO e da Formação CyberSec da [Vai na Web](https://vainaweb.com.br/) e [Kensei](https://www.linkedin.com/company/kensei-cybersec/posts/?feedView=all). Concluí a alguns meses o curso de Tecnologia de Desenvolvimento Backend Java oferecido também pela [Vai na Web](https://vainaweb.com.br/), onde desenvolvi ainda mais minhas habilidades técnicas e interpessoais com aulas dinâmicas, práticas e 100% ao vivo!
-
-## Onde me encontrar
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniordorneles_dev/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JuniorDIsael/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaeldjunior@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isael-d-junior/)
-[![Rocketseat](https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost)](https://app.rocketseat.com.br/me/juniordorneles) 
-[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://www.dio.me/users/isaeldjunior)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorD-Isael)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaeldjunior@gmail.com)
 
+---
 
+### Sobre Mim
 
+Minha jornada profissional parte da convicção de que a segurança mais eficaz é aquela que é **construída, não adaptada**. Com uma base sólida em desenvolvimento backend (Python/FastAPI, Java/Spring) e administração de sistemas Linux, estou direcionando minha carreira para a intersecção entre desenvolvimento, segurança e operações.
 
-## Hard Skills
+Meu foco é aplicar automação, práticas de código seguro e inteligência artificial para integrar a segurança em todo o ciclo de vida do software, criando soluções mais resilientes e eficientes.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.
+- 🛡️ Aprofundando conhecimentos práticos na formação **CyberSec** da **[Vai na Web](https://vainaweb.com.br/)** em parceria com a **[Kensei Security](https://www.linkedin.com/company/kensei-cybersec/)**.
+- 🚀 Concluí o **Bootcamp Santander - Cibersegurança 2025**, com foco em fundamentos de redes, pentest e resposta a incidentes.
+- 🤖 Finalizei a formação **IA para Devs** da **Rocketseat**, onde explorei arquiteturas RAG, fine-tuning de LLMs (AWS Bedrock) e a aplicação de agentes de IA para otimização de processos.
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+### Stack de Tecnologias
 
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
+| Área                      | Tecnologias e Ferramentas                                                                                               |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Cibersegurança**        | Nmap, Wireshark, Metasploit, Burp Suite, Medusa, ModSecurity (WAF), OWASP CRS, Análise de Vulnerabilidades, Resposta a Incidentes (NIST). |
+| **DevSecOps & Automação** | Docker, Docker Compose, GitHub Actions, Linux (Shell Script), Snyk, Trivy, Docker Bench for Security.                    |
+| **Inteligência Artificial** | Conceitos de LLMs, Arquitetura RAG, Fine-tuning, AWS Bedrock, Google Colab, Prompt Engineering, CrewAI, AutoGen.        |
+| **Desenvolvimento Backend** | Python (FastAPI, Django), Java (Spring), Node.js (NestJS).                                                              |
+| **Bancos de Dados**         | MySQL, PostgreSQL, MongoDB.                                                                                             |
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorD-Isael&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniorD-Isael&layout=compact&langs_count=8&theme=midnight-purple&card_width=320" />
-</a>
+---
+
+### Projetos em Destaque
+
+> Aqui estão alguns projetos que demonstram minhas habilidades práticas na aplicação de segurança e automação.
+
+<!-- 
+    IMPORTANTE: Atualize o link "#" para o link real do seu repositório quando o projeto estiver pronto.
+-->
+
+#### 🛡️ Implementação e Análise de WAF com OWASP CRS (Laboratório Hands-on)
+*Projeto de Cibersegurança Defensiva onde configurei um ambiente em Docker com a aplicação vulnerável DVWA, um WAF ModSecurity com OWASP Core Rule Set e um monitor de logs (Dozzle). Executei ataques controlados de SQL Injection e XSS, analisei os logs para validar a eficácia do WAF e produzi um relatório técnico completo baseado no framework NIST IR.*
+<br>
+**Tecnologias:** Docker, ModSecurity, OWASP CRS, DVWA, Análise de Logs, NIST IR.
+<br>
+**[Ver no Repositório ➔](#)**
+
+#### 🤖 Pipeline DevSecOps com Análise de Vulnerabilidades por IA (Em Desenvolvimento)
+*Projeto pessoal que consiste em uma pipeline de CI/CD no GitHub Actions para uma aplicação em Python/FastAPI. A pipeline automatiza a verificação de segurança em duas etapas: escaneamento de vulnerabilidades no código-fonte com Snyk e análise da imagem Docker com Trivy. Um script Python consome o relatório de vulnerabilidades e utiliza um LLM para priorizar os riscos e sugerir correções, integrando IA ao processo de desenvolvimento seguro.*
+<br>
+**Tecnologias:** GitHub Actions, Docker, Python, FastAPI, Snyk, Trivy, OpenAI/LLMs.
+<br>
+**[Ver no Repositório ➔](#)**
+
+---
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JuniorD-Isael&show_icons=true&theme=midnight-purple&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniorD-Isael&layout=compact&langs_count=8&theme=midnight-purple&card_width=320" />
+  </a>
+</p>
