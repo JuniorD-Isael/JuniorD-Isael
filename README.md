@@ -34,23 +34,26 @@ Meu foco é aplicar automação, práticas de código seguro e inteligência art
 
 > Aqui estão alguns projetos que demonstram minhas habilidades práticas na aplicação de segurança e automação.
 
-<!-- 
-    IMPORTANTE: Atualize o link "#" para o link real do seu repositório quando o projeto estiver pronto.
--->
+#### ⚔️ Relatório de Teste de Intrusão (CTF) – TechCorp Solutions
+*Simulação completa de um ataque Black Box contra uma infraestrutura web corporativa. A exploração seguiu as fases da Cyber Kill Chain, desde o reconhecimento inicial (OSINT, Nmap) e exploração de falhas web (SQLi, XSS), até a movimentação lateral via serviços mal configurados (FTP anônimo), escalação de privilégios para `root` no sistema (SSH) e comprometimento total do banco de dados (MySQL), culminando na elaboração de um relatório técnico profissional.*
+<br>
+**Tecnologias:** Pentest, Nmap, SQL Injection, XSS, FTP, SSH, MySQL, Privilege Escalation, Relatório Técnico.
+<br>
+**[Ver o Relatório Completo ➔](https://github.com/JuniorD-Isael/Relatorio-de-Teste-de-Intrusao-Penetration-Test-TechCorp-Solutions)**
 
 #### 🛡️ Implementação e Análise de WAF com OWASP CRS (Laboratório Hands-on)
 *Projeto de Cibersegurança Defensiva onde configurei um ambiente em Docker com a aplicação vulnerável DVWA, um WAF ModSecurity com OWASP Core Rule Set e um monitor de logs (Dozzle). Executei ataques controlados de SQL Injection e XSS, analisei os logs para validar a eficácia do WAF e produzi um relatório técnico completo baseado no framework NIST IR.*
 <br>
 **Tecnologias:** Docker, ModSecurity, OWASP CRS, DVWA, Análise de Logs, NIST IR.
 <br>
-**[Ver no Repositório ➔](#)**
+**[Ver no Repositório ➔](https://github.com/JuniorD-Isael/Projeto_Final_CyberSec_Modulo2)**
 
-#### 🤖 Pipeline DevSecOps com Análise de Vulnerabilidades por IA (Em Desenvolvimento)
-*Projeto pessoal que consiste em uma pipeline de CI/CD no GitHub Actions para uma aplicação em Python/FastAPI. A pipeline automatiza a verificação de segurança em duas etapas: escaneamento de vulnerabilidades no código-fonte com Snyk e análise da imagem Docker com Trivy. Um script Python consome o relatório de vulnerabilidades e utiliza um LLM para priorizar os riscos e sugerir correções, integrando IA ao processo de desenvolvimento seguro.*
+#### 🎓 API de Sistema Escolar (School System)
+*API RESTful desenvolvida em **Java com Spring Boot** para o gerenciamento de colaboradores e alunos em um sistema escolar. O projeto demonstra minhas habilidades em desenvolvimento backend no ecossistema Java, incluindo a construção de uma arquitetura baseada em serviços, modelagem de dados com **Hibernate (ORM)** e a configuração de bancos de dados em memória (H2) para testes e relacionais (PostgreSQL) para produção.*
 <br>
-**Tecnologias:** GitHub Actions, Docker, Python, FastAPI, Snyk, Trivy, OpenAI/LLMs.
+**Tecnologias:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, H2 Database, PostgreSQL, Docker.
 <br>
-**[Ver no Repositório ➔](#)**
+**[Ver no Repositório ➔](https://github.com/JuniorD-Isael/School_System)**
 
 ---
 
